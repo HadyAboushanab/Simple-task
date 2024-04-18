@@ -1,0 +1,51 @@
+
+.owner-details-container {
+    max-width: 600px;
+    margin: 0 auto; 
+    padding: 20px; 
+  }
+  
+  .owner-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .owner-bio {
+    margin-bottom: 16px;
+  }
+  
+  .owner-avatar {
+    width: 100px; 
+    height: 100px; 
+    border-radius: 50%; 
+    margin-right: 10px; 
+  }
+  
+  .github-button  {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+  }
+  
+  .github-button:hover {
+    background-color: #0056b3; 
+  }
+
+  .back-button {
+    padding: 8px 16px;
+    background-color: #f0f0f0; 
+    color: #333; 
+    border: 1px solid #ccc; 
+    border-radius: 4px; 
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+  }
+  
+  .back-button:hover {
+    background-color: #ccc;
+  }

@@ -1,0 +1,43 @@
+
+.repository-details-container {
+    max-width: 600px; 
+    margin: 0 auto; 
+    padding: 20px; 
+  }
+  
+  .repository-name {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 16px;
+  }
+  
+  .repository-description {
+    margin-bottom: 16px;
+  }
+  
+  .github-button {
+    padding: 8px 16px; 
+    background-color: #007bff; 
+    color: white; 
+    border: none; 
+    border-radius: 4px; 
+    cursor: pointer; 
+    transition: background-color 0.3s ease; 
+  }
+  
+  .github-button:hover {
+    background-color: #0056b3; 
+  }
+  
+  .owner-link {
+    text-decoration: none;
+    color: #007bff;
+    font-weight: bold;
+    cursor: pointer;
+    transition: color 0.3s ease; 
+  }
+  
+  .owner-link:hover {
+    color: #007bff;
+  }
+  
